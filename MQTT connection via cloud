@@ -1,2 +1,4 @@
 In the previous version of this app the connection was established through a Mqtt brocker installed in a third device to eleminate the third 
 party in this version the connection is estlablied via cloud
+
+To make changes in the previous version just follow these steps:
